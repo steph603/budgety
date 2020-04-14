@@ -1,6 +1,6 @@
 # Budgety
 
-Completed as a walkthrough during Jonas Schmedtmann's Javascript Course (https://www.udemy.com/course/the-complete-javascript-course/)
+Completed April 2020 as a walkthrough during Jonas Schmedtmann's Javascript Course (https://www.udemy.com/course/the-complete-javascript-course/)
 HTML and CSS were already completed for me, and I just added the Javascript.  
 
 - I would like to improve UX - change green tick 'add item' button to two buttons - Green ^ arrow, and Red v arrow to add either an income or expense.
